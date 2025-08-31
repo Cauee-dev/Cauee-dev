@@ -8,8 +8,27 @@
 💻 Skills: HTML, CSS, JavaScript, Python, No/Low Code  
 🌟 Sempre explorando novas tecnologias e desafios
 
+<div style="display: inline_block">
+  <br>
+  <img align="right" alt="gengar-gif" src="https://media.tenor.com/Inv6TKns4PWAAMAk/gengar-gen-2.gif">
+</div>
+
 <p align="left">
-    </a> 
+    <a href="mailto:caueesilva07@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/cauê-silva" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank">
+    </a>
+    <a href="(https://www.youtube.com/@CaueeSilva)" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.twitch.tv/wallss77" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/cauee_y7" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
+    </a>
     <a href="https://github.com/Cauee-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
