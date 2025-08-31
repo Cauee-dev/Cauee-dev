@@ -10,7 +10,7 @@
 
 <div style="display: inline_block">
   <br>
-  <img align="right" alt="gengar-gif" src="https://media.tenor.com/Inv6TKns4PWAAMAk/gengar-gen-2.gif">
+  <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="220">
 </div>
 
 <p align="left">
