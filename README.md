@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Opa!+👋;+Me+chamo+Cauê!+👾;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&color=9932CC&duration=2000&lines=Opa!+👋;+Me+chamo+Cauê!+👾;" />
 **`Futuro desenvolvedor FullStack`**
 
 👋 Opa! Me chamo Cauê  
@@ -9,7 +9,7 @@
 
 <div style="display: inline_block">
   <br>
-  <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="220">
+  <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="200">
 </div>
 
 <p align="left">
