@@ -90,22 +90,12 @@
 ### 📊 Estatísticas
 
 <p>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<picture align="center">
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake-dark.svg">
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake.svg">
 </picture>
