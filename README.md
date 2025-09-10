@@ -3,7 +3,7 @@
 **`Futuro desenvolvedor FullStack`**
 
 👋 Opa! Me chamo Cauê  
-🎓 Estudante de Engenharia de Software (2º período)  
+🎓 Estudante de Engenharia de Software (2º semestre)  
 🚀 Participante do programa G9 ONE ORACLE Next Education da Alura  
 💻 Skills: HTML, CSS, JavaScript, Python, No/Low Code  
 🌟 Sempre explorando novas tecnologias e desafios
