@@ -4,7 +4,7 @@
 
 👋 Opa! Me chamo Cauê  
 🎓 Estudante de Engenharia de Software (2º período)  
-🚀 Participante do programa G9 ONE da Alura  
+🚀 Participante do programa G9 ONE ORACLE Next Education da Alura  
 💻 Skills: HTML, CSS, JavaScript, Python, No/Low Code  
 🌟 Sempre explorando novas tecnologias e desafios
 
