@@ -87,14 +87,12 @@
 <br/>
 <br/>
 
-<br clear="both">
-
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400" />
-</p>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&layout=compact&theme=tokyonight" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
