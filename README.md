@@ -90,8 +90,11 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400" />
+  <img height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  
+  <img height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&layout=compact&theme=tokyonight&langs_count=9&hide_progress=true&exclude_repo=&cache_seconds=86400" />
 </p>
 
 <picture>
