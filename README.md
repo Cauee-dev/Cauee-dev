@@ -5,7 +5,7 @@
 👋 Opa! Me chamo Cauê  
 🎓 Estudante de Engenharia de Software (3º semestre)  
 🚀 Participante do programa G9 ONE | ORACLE Next Education da Alura  
-💻 Skills: HTML, CSS, JavaScript, Java, Git/GitHub, Python, No/Low Code  
+💻 Skills: HTML, CSS, JavaScript, Java, Python, Git/GitHub, No/Low Code  
 🌟 Sempre explorando novas tecnologias e desafios
 
 <div style="display: inline_block">
@@ -73,7 +73,15 @@
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=tag&related_id=5968282" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
+/>
+<img 
+    align="left"
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -81,16 +89,8 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
 
 <br clear="both"/>
 
