@@ -1,111 +1,50 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&color=9932CC&duration=2000&lines=Opa!+👋;+Me+chamo+Cauê!+👾;"/>
+# Cauê Silva
 
-**`Futuro desenvolvedor FullStack`**
+**Desenvolvedor de Software & Estudante de Engenharia de Software**
 
-👋 Opa! Me chamo Cauê  
-🎓 Estudante de Engenharia de Software (3º semestre)  
-🚀 Participante do programa G9 ONE | ORACLE Next Education da Alura  
-💻 Skills: HTML, CSS, JavaScript, Java, Python, Git/GitHub, No/Low Code  
-🌟 Sempre explorando novas tecnologias e desafios
-
-<div style="display: inline_block">
-  <br>
-  <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="200">
-</div>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/cauê-silva" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.youtube.com/@CaueeSilva" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.instagram.com/cauee_y7" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://github.com/Cauee-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Cauee-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Cauee-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Cauee-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Estudante de Engenharia de Software focado em desenvolvimento de software, automação e desenvolvimento web. Atualmente aprofundando conhecimentos em arquitetura de sistemas, Python, JavaScript e ecossistema Java.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left"
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br clear="both"/>
+---
 
-### 📊 Estatísticas
+### 🎓 Formação & Especializações
+
+- **Bacharelado em Engenharia de Software** — Universidade de Vassouras
+- **Programa G9 ONE (ORACLE Next Education)** — Alura
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cauee-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauee-dev&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake.svg">
-</picture>
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Gráfico de Contribuições" src="https://raw.githubusercontent.com/Cauee-dev/Cauee-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cauê-silva)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caueesilva07@gmail.com)
