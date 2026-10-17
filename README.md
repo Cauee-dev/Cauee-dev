@@ -28,6 +28,13 @@ Focado em desenvolvimento de software, estrutura de dados, banco de dados e arqu
 
 <br>
 
+**Frameworks & Bibliotecas:**  
+<br>
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+<br>
+
 **Conceitos & Ferramentas:**  
 <br>
 ![SQL / Banco de Dados](https://img.shields.io/badge/SQL_&_Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
